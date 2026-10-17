@@ -70,6 +70,7 @@ I'm a **BCA graduate** from CCS University, Meerut. I build clean, responsive in
 
 <p>
   <a href="https://sakshi-singh99.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Visit%20my%20site-AD1457?style=for-the-badge&logo=vercel&logoColor=white" alt="Visit Sakshi's portfolio" /></a>
+  <a href="https://www.linkedin.com/in/singh-sakshi99/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect with Sakshi on LinkedIn" /></a>
   <a href="mailto:officialsakshi99@gmail.com"><img src="https://img.shields.io/badge/Email-officialsakshi99%40gmail.com-D81B60?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Sakshi" /></a>
 </p>
 
